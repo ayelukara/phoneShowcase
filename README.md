@@ -1,0 +1,1 @@
+Welcome to PhoneShowcase! A responsive webpage featuring a phone with links to PlayStore and Apple Store. Explore the code and toggle the background with the top-right corner buttons. #PhoneShowcase #WebDevelopment #ResponsiveDesign
